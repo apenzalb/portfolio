@@ -23,7 +23,7 @@ Le mémoire est structuré en trois parties :
 2. **Numérisation et outils de préservation numérique : état des lieux et limites** — panorama des méthodes de numérisation, des solutions logicielles (CollectiveAccess, MuseumPlus, Archivematica, Omeka S, etc.) et de leurs contraintes structurelles
 3. **Vers l'avenir : innovations et nouvelles approches** — exploration de l'IA documentaire, de la blockchain et du cloud computing appliqués à la conservation patrimoniale
 
-Le mémoire compte environ 57 pages de développement, accompagnées d'une bibliographie organisée en quatre ensembles thématiques et d'une carte mentale des acteurs de la conservation numérique.
+Le mémoire compte 53 pages de développement, accompagnées d'une bibliographie organisée en quatre ensembles thématiques et d'une carte mentale des acteurs de la conservation numérique.
 
 *Note : 18/20*
 
