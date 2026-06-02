@@ -76,7 +76,7 @@ Ces deux activités sont, à mon sens, **représentatives du métier de document
 
 ### Ce que les activités m'ont appris
 
-Le **dépouillement du catalogue de l'accrochage** a été particulièrement formateur car il m'a confrontée à une difficulté concrète : ce dépouillement n'avait jamais été réaliséen raison d'incohérences entre les anciens numéros de dépôt, d'autres numéros de dépôts attribués à postérioris et les numéros d'inventaire. En reconstituant la correspondance entre ces deux systèmes de cotation pour les oeuvres de Villain (fonds Levine), j'ai compris que chaque numéros raconte une histoire sur l'oeuvre et son entrée au musée (acquisiton, dépôt, transfert), sur les personnes qui y travail dessus.
+Le **dépouillement du catalogue de l'accrochage** a été particulièrement formateur car il m'a confrontée à une difficulté concrète : ce dépouillement n'avait jamais été réaliséen raison d'incohérences entre les anciens numéros de dépôt, d'autres numéros de dépôts attribués à postérioris et les numéros d'inventaire. En reconstituant la correspondance entre ces trois systèmes de cotation pour les oeuvres de Villain (fonds Levine), j'ai compris que chaque numéros raconte une histoire sur l'oeuvre et son entrée au musée (acquisiton, dépôt, transfert).
 
 Le **chantier de reconditionnement** m'a appris à travailler à grande échelle (100 ml de monographies) et à articuler plusieurs gestes techniques : dédoubler les boîtes surremplies, transvaser dans des boîtes Cochard et pucer en RFID. J'ai mesuré combien la **conservation préventive** ne se limite pas à un savoir théorique : elle se joue dans la qualité d'un conditionnement, dans le geste précis qui prolonge la durée de vie d'un document.
 
