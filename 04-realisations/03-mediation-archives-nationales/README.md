@@ -22,7 +22,7 @@ Le document final a pris la forme d'un **rapport d'analyse mis en page selon la 
 
 ## Document authentique
 
-📄 **[Rapport d'analyse sur l'état actuel des dispositifs de médiation
+**[Rapport d'analyse sur l'état actuel des dispositifs de médiation
 des structures archivistiques territoriales ](./Rapport_Mars_2026.pdf)** 
 
 ---
