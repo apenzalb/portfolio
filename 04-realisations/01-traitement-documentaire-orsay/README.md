@@ -45,7 +45,7 @@ Ces deux activités, en apparence très différentes, sont les deux faces d'un m
 
 - **Connaissance des fonds documentaires patrimoniaux** d'un grand musée national
 - **Cadre méthodologique du dossier d'œuvre** (constitution, structuration en pochettes thématiques : Expositions, Bibliographie, etc.)
-- **Procédures de conditionnement archivistique** (typologie des boîtes Cochard, normes de conservation)
+- **Procédures de conditionnement** (typologie des boîtes Cochard, normes de conservation)
 - **Identification des œuvres** par numéros d'inventaire et de dépôt
 - **Logique des fonds** (fonds Levine, fonds Peinture étrangère)
 
@@ -92,7 +92,7 @@ Ces activités s'inscrivent dans une **opération institutionnelle plus large** 
 
 ---
 
-## 🔗 Compétences associées
+## Compétences associées
 
 Voir la grille détaillée dans la section [Domaines de compétences](../../03-competences/) :
 - **Traitement documentaire et archivistique** (dépouillement, gestion des dossiers d'œuvre)
