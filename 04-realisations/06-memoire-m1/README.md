@@ -12,7 +12,7 @@ Le mémoire repose sur une démarche documentaire qualitative : revue de littér
 
 ## Document authentique
 
-📄 **[Mémoire de Master 1 GIMD — Université Paul-Valéry Montpellier 3](./memoire_m1_penza.pdf)** 
+**[Mémoire de Master 1 GIMD — Université Paul-Valéry Montpellier 3](./memoire_m1_penza.pdf)** 
 
 > Titre : *La transition numérique dans les musées : acteurs, enjeux et outils pour la préservation des collections*
 >
@@ -25,7 +25,7 @@ Le mémoire est structuré en trois parties :
 
 Le mémoire compte environ 57 pages de développement, accompagnées d'une bibliographie organisée en quatre ensembles thématiques et d'une carte mentale des acteurs de la conservation numérique.
 
-*Note finale : 18/20*
+*Note : 18/20*
 
 ---
 
