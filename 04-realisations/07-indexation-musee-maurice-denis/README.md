@@ -76,7 +76,7 @@ J'ai donc dû apprendre à :
 
 ### Ce qui s'est bien passé / ce que j'aurais pu faire autrement
 
-La **formation initiale** aux normes Joconde dispensée par mon encadrante m'a donné un cadre solide pour démarrer rapidement. Le travail à l'échelle d'un **corpus de plus de 50 œuvres** m'a permis de gagner en **efficacité et en cohérence** : les premières notices étaient hésitantes, les dernières plus assurées.
+La **formation initiale** aux normes Joconde dispensée par mon encadrante m'a donné un cadre solide pour démarrer rapidement. Le travail à l'échelle d'un **corpus de plus de 50 œuvres** m'a permis de gagner en **efficacité et en cohérence**.
 
 Avec le recul, j'aurais pu **tenir un journal de bord** des choix terminologiques difficiles que j'ai faits, pour mieux capitaliser sur mon apprentissage et le partager. C'est une pratique réflexive que je souhaite intégrer à mes activités à venir.
 
