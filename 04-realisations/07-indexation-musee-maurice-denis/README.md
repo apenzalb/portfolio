@@ -5,7 +5,7 @@
 
 ---
 
-## 📌 Contexte de production
+## Contexte de production
 
 Lors de mon stage au **Musée départemental Maurice Denis** (juin-septembre 2025), j'ai contribué au catalogage et à l'indexation d'une **série d'environ 50 à 100 peintures** des collections du musée, principalement issues du fonds **Nabi**.
 
@@ -15,7 +15,7 @@ J'ai bénéficié d'une **formation aux normes Joconde** dispensée par mon enca
 
 ---
 
-## 📂 Documents authentiques
+## Documents authentiques
 
 Les notices d'œuvres que j'ai contribué à enrichir sont aujourd'hui **publiées sur la base Joconde** et consultables librement sur le portail [pop.culture.gouv.fr](https://pop.culture.gouv.fr).
 
@@ -27,7 +27,7 @@ Les notices d'œuvres que j'ai contribué à enrichir sont aujourd'hui **publié
 
 ---
 
-## 🛠️ Compétences mobilisées
+## Compétences mobilisées
 
 ### Savoirs
 
@@ -55,7 +55,7 @@ Les notices d'œuvres que j'ai contribué à enrichir sont aujourd'hui **publié
 
 ---
 
-## 🔍 Analyse réflexive
+## Analyse réflexive
 
 ### Pourquoi ce document est significatif
 
@@ -88,7 +88,7 @@ Cette expérience d'indexation rejoint directement les attendus du concours de l
 
 ---
 
-## 🔗 Compétences associées
+## Compétences associées
 
 Voir la grille détaillée dans la section [Domaines de compétences](../../03-competences/) :
 - **Traitement documentaire et archivistique** (indexation, catalogage, description)
